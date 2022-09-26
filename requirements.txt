@@ -49,3 +49,5 @@ w3lib==2.0.1
 websockets==10.3
 yahoo-fin==0.8.9.1
 zipp==3.8.1
+ta~=0.10.2
+scikit-learn~=1.1.2
